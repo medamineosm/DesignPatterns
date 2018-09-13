@@ -88,6 +88,31 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/com/osm/objectPatterns/state/Main.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/com/osm/objectPatterns/state/StateContext.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/com/osm/objectPatterns/state/StateLowerCase.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/com/osm/objectPatterns/state/StateMultipleUpperCase.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/com/osm/objectPatterns/state/Statelike.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/com/osm/objectPatterns/strategy/ALGO_TYPE.java">
           <value>
             <set />
